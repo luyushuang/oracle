@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Shawn'''s Oracle Blog]]></title>
+  <title><![CDATA[Shawn's Oracle Blog]]></title>
   <link href="http://luyushuang.github.io/oracle/atom.xml" rel="self"/>
   <link href="http://luyushuang.github.io/oracle/"/>
-  <updated>2013-10-10T09:13:22+08:00</updated>
+  <updated>2013-10-10T09:15:59+08:00</updated>
   <id>http://luyushuang.github.io/oracle/</id>
   <author>
     <name><![CDATA[Shawn Lu]]></name>
